@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sagar Bhat</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=github%20animated%20coding%20gif&imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Fpunitkmryh%2Fpunitkmryh%2Fmaster%2FDeveloper.gif&imgrefurl=https%3A%2F%2Fgithub.com%2FSiddheshShinde-tech%2FSiddheshShinde-tech&docid=DGJw4GBn1VHItM&tbnid=zhjSEq0Xd_DH7M&vet=12ahUKEwjvgMX4jpOJAxW2p1YBHenyOV8QM3oECGYQAA..i&w=680&h=428&hcb=2&ved=2ahUKEwjvgMX4jpOJAxW2p1YBHenyOV8QM3oECGYQAA![image](https://github.com/user-attachments/assets/9cc60cbf-b342-42d8-a065-9008c01dc787)
-">
+<h3 align="center">A passionate MERN developer from India . </h3>
+<img align="right" alt="coding" width="400" src="https://github.com/ErSagar4u/ErSagar4u/blob/main/gif3.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ersagar4u&label=Profile%20views&color=0e75b6&style=flat" alt="ersagar4u" /> </p>
